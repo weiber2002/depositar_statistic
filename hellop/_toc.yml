@@ -9,5 +9,5 @@ chapters:
 - file: depositar
 - file: largest
 - file: ./arv/average
-  section:
+  sections:
   -file: ./avr/avr_code
