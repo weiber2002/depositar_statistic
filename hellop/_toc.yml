@@ -11,3 +11,9 @@ chapters:
 - file: /arv/average
   sections:
   - file: /avr/avr_code
+- file: average
+- file: ./avr/average
+- file: avr/avr_code
+- file: /avr/avr_code
+- file: ../avr/avr_code
+- file: avere
