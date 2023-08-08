@@ -19,9 +19,23 @@ kernelspec:
 ![image info](../photo/keyword_wikidata.webp)
 
 
+
+
 ```{code-cell}
 print(3+3)
 ```
 ```{note} Notes require **no** arguments, so content can start here.
 ``` 
 here is a [reference to the average](avr_code.ipynb).
+
+::::{tab-set}
+
+:::{tab-item} Label1
+Content 1
+:::
+
+:::{tab-item} Label2
+Content 2
+:::
+
+::::
