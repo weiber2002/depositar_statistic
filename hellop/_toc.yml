@@ -8,7 +8,7 @@ chapters:
 - file: markdown-notebooks
 - file: depositar
 - file: largest
-- file: avr
+- file: 
   sections:   
-  - file: avr_code
-  - file: average
+  - file: avr/avr_code
+  - file: avr/average
