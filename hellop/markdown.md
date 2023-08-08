@@ -6,7 +6,7 @@ called **MyST Markdown**.
 This is a simple file to help you get started and show off some syntax.
 
 ## What is MyST?
-{doc}`intro`
+{doc}`./avr/arv_code.ipynb`
 MyST stands for "Markedly Structured Text". It
 is a slight variation on a flavor of markdown called "CommonMark" markdown,
 with small syntax extensions to allow you to write **roles** and **directives**

@@ -8,3 +8,6 @@ chapters:
 - file: markdown-notebooks
 - file: depositar
 - file: largest
+- file: ./arv/average
+  section:
+  -file: ./avr/avr_code
