@@ -13,7 +13,7 @@ kernelspec:
   name: python3
 ---
 # Average information
-
+這裡收集了
 this is  the chapter for average information
 
 ```{code-cell}
