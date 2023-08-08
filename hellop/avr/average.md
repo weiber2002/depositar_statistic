@@ -28,14 +28,3 @@ print(3+3)
 ``` 
 here is a [reference to the average](avr_code.ipynb).
 
-::::{tab-set}
-
-:::{tab-item} Label1
-Content 1
-:::
-
-:::{tab-item} Label2
-Content 2
-:::
-
-::::
