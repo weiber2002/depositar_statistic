@@ -15,6 +15,7 @@ kernelspec:
 # Average information of metadata
 在創建資料集時，使用者會被要求填答後設資料以利檢索或是分析，這裡收集了depositar各種後設資料的填答情況。
 <!-- # 這邊放一個照片示意圖 -->
+![image info](./photo/keyword_wikidata.webp)
 this is  the chapter for average information
 
 ```{code-cell}
