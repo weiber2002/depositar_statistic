@@ -8,6 +8,7 @@ To stay align with the current realities, we suggest that you **refresh the data
 
 <h2>Depositar Statistical Insights: Navigating the Terrain</h2>
 ```{note}
+
 [Frequently Used Data](largest_guide): One of our core offerings is the analysis of frequently used data. We delve deep into the dataset to identify trends, patterns, and popular keywords that offer a glimpse into the overarching themes of the content. This analysis empowers you with a bird's-eye view of what captures the attention of users and stakeholders.
 
 [Metadata Analysis](avr_guide): Here, we bring metadata to the forefront. Metadata, often referred to as data about data, holds the keys to understanding the context, structure, and attributes of the deposits. Our comprehensive metadata analysis provides you with a clearer understanding of the data's origins, its relevance, and potential applications.
