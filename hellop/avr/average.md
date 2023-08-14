@@ -31,7 +31,7 @@ kernelspec:
 網址 名稱 摘要 字元編碼 座標參考系統 格式 (沒看到字元編碼和座標參考系統)
 
 :::{list-table} 基本資訊
-:widths: 15 10 30
+:widths: 10 5 20 15
 :header-rows: 1
 
 *   - name
