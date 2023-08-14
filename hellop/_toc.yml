@@ -15,3 +15,6 @@ chapters:
 - file: spatial_guide
   sections:
   - file: spatial/spatial
+- file: wikidata_guide
+  sections:
+  - file: wikidata/wikidata
