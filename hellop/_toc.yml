@@ -17,5 +17,5 @@ chapters:
   - file: spatial/spatial
 - file: wikidata_guide
   sections:
-  - file: wikidata/wikidata_detail
+  - file: wikidata/detail
   - file: wikidata/wikidata
