@@ -128,11 +128,9 @@ kernelspec:
     - 本資料集維護人員之電子郵件信箱。
 :::
 
-<h2>資源層集 </h2>
-
 ## 資源層級
 
-:::{list-table} 管理資訊
+:::{list-table} 資源層級
 :widths: 15 5 30
 :header-rows: 1
 
