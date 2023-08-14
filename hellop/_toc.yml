@@ -12,3 +12,6 @@ chapters:
   sections:  
   - file: avr/average 
   - file: avr/avr_code
+- file: spatial_guide
+  sections:
+  - file: spatial/spatial
