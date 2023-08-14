@@ -1,3 +1,5 @@
+# wikidata_detail
+
 To achieve **Keyword Frequency Analysis** and **Tag Validation against Wikidata** we make great efforts on this.
 
 In the detail, at first, we count the keyword in every dataset and get a list of PID. Next, we send api to wikidata to get the corresponding name in wikidata.
