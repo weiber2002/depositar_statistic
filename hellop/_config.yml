@@ -39,4 +39,3 @@ html:
 
 launch_buttons:
   binderhub_url: "https://mybinder.org"
-  thebe: true
