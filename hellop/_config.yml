@@ -38,5 +38,5 @@ html:
   use_repository_button: true
 
 launch_buttons:
-  binderhub_url: "https://mybinder.org/v2/gl/weiber2002%2Fdepositar_statistic/main"
+  binderhub_url: "https://mybinder.org"
   thebe: true
