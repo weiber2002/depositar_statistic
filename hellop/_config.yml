@@ -39,3 +39,4 @@ html:
 
 launch_buttons:
   binderhub_url: "https://mybinder.org"
+  notebook_interface: "classic"  # or "classic"
