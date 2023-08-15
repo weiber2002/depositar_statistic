@@ -1,4 +1,4 @@
-# wikidata_detail
+# Wikidata_detail
 
 To achieve **Keyword Frequency Analysis** and **Tag Validation against Wikidata** we make great efforts on this.
 
