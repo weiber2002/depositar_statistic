@@ -1,4 +1,5 @@
 # depositar_statistic
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/weiber2002%2Fdepositar_statistic/main?labpath=.%2Fhellop%2Fdepositar.ipynb)
 
 for maintainer to use statistic
 
