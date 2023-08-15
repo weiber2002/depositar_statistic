@@ -1,7 +1,7 @@
-# this page is for statistics about metadata
+# Metadata Analysis
 
-In this section, we analyze how many blocks are filled in the metadata. 
-We provide statistical data in different domains with percentage and **bar graph**.
+In this section, we conduct the examination of the filling rate of metadata blocks. 
+We present statistical information across various domains, showcasing percentages through a **bar graph** for visual clarity.
 
 ```{note}
 The statistics include

@@ -1,4 +1,4 @@
-# Wikidata
+# Wikidata Exploration
 
 
 ```{note}

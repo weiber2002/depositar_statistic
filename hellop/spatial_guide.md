@@ -1,1 +1,1 @@
-# this is for spatial information
+# Spatial Information Insights
