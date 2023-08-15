@@ -19,3 +19,4 @@ chapters:
   sections:
   - file: wikidata/detail
   - file: wikidata/wikidata
+- file: test
