@@ -1,5 +1,5 @@
 # depositar_statistic
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/weiber2002%2Fdepositar_statistic/main)
 for maintainer to use statistic
 
 ## Usage
