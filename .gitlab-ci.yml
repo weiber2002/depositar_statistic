@@ -32,21 +32,6 @@ pages:
   only:
     - main
     
-scheduled_rebuild:
-  schedule:
-    - cron: "0 0 * * *"
-  script:
-    - echo "Scheduled pipeline: Rebuilding Jupyter Book..."
-    - source venv/bin/activate
-    - pip install -r requirements.txt
-    - jupyter-book build hellop
-    - mv hellop/_build/html/ public/
-  artifacts:
-    paths:
-      - public
-  only:
-    - main
-
 workflow:
   rules:
     - if: $CI_COMMIT_REF_NAME =~ /-wip$/  # Pipelines for branch or tag names that include -wip don't run
